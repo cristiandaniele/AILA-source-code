@@ -1,0 +1,407 @@
+Privacy
+
+Customer Privacy Notice
+
+Get to know our Privacy Notice and your choices about how information is used. This notice is designed to provide transparency into our privacy practices, in a format that is easy to read, understand and navigate. Reference each section to get an overview of how we collect, use, share, and safeguard your information, or click learn more to expand and view the full Customer Privacy Notice.
+
+Information We May Collect
+We collect three main types of information related to you or your use of our products and services: 
+
+(1) Information from or about you or your devices 
+(2) Information from or about your Tesla vehicle 
+(3) Information from or about your Tesla energy products 
+
+Depending on the Tesla products and services you request, own, or use, not all of these types of information may be applicable. Learn more.
+
+How We May Use Your Information
+We may use information we collect to: 
+
+(1) Communicate with you 
+(2) Fulfill our products and services 
+(3) Improve and enhance development of our products and services 
+
+This includes contacting you (or other necessary parties) to advise you of important safety-related information, to notify first responders in the event of an accident involving your vehicle, present products and offers tailored to you, or to respond to your inquiries and fulfill your requests for product information, newsletters, or other events. Learn more.
+
+Sharing Your Information
+We may share information with: 
+
+(1) Our service providers and business partners when necessary to perform services on our or on your behalf 
+(2) Third parties you authorize 
+(3) Other third parties as required by law 
+
+Some examples of when we may share your information include, payment processing, order fulfillment, product installation, customer service, marketing, financing, service or repair, and other similar services. Learn more.
+
+Choice and Transparency
+We enable you to access and control the data that we collect, use and share from or about you, or your use of our products or services, including through device permissions, in-app settings, marketing opt-outs, and disabling collection of certain vehicle data. Learn more.
+
+How to Contact Us
+For questions or comments, to opt out from certain services, or to submit a data privacy request, please contact us.
+
+Tesla Updates
+
+Tesla Updates are emails, calls or messages via the Tesla app (all of them referred to as ‘messages’) that provide more information on Tesla products, services and regional events. Tesla Updates may be tailored to your needs and interests that we may infer from your interaction with us. We are requesting this consent on our own behalf and that of our regional subsidiaries. You can withdraw your consent to receive commercial electronic messages at any time by clicking "unsubscribe" at the bottom of these emails or Tesla app message, or letting our customer representative know about your decision. Some messages directly related to a Tesla purchase cannot be opted out of.
+
+Tesla, Inc
+Attn: Legal,
+45500 Fremont Boulevard
+Fremont, CA 94538
+(650) 681-5000
+
+Terms of Use
+
+Payment Terms for Services
+Premium Connectivity
+Revocation Policy
+Supercharger Fair Use Policy
+Tesla Intellectual Property
+Payment Terms for Services
+
+These Terms of Service describe your agreement to pay for future services and charges. Tesla may amend these terms and any changes are effective when posted to this page.
+
+The services or charges described below may result in charges to you, even if someone else is using your vehicle. Tesla may collect payment from you, including by using the credit card saved in your Tesla Account. Charges may include taxes as required by law. You will be able to review a summary of transactions in your Tesla Account. If we are unable to collect payment, we may contact you based on your information on file, or may request payment when we are performing services for you. If you do not pay past due amounts we may limit or block your vehicle's ability to use the related services until payment issues are resolved. For information on how we handle your credit card information, please see our Privacy Policy.
+
+Idle Fee
+
+In consideration of others who need to use a Supercharger, we ask that you move your vehicle when it is finished charging. To encourage this, you will incur an idle fee for the time your car remains parked in a charging stall after it is finished charging. We will waive the idle fee if your car is moved within five minutes after it is finished charging, and the idle fee will not accumulate while less than half of the charging stalls at your location are occupied. All vehicles are subject to idle fees, regardless of when your vehicle was purchased. To avoid idle fees, we recommend you monitor your vehicle while using a Supercharger and encourage you to use the Tesla mobile app to track your vehicle's charge status.
+
+Idle fees are incurred on a per minute basis. The idle fee rate for each location may change from time to time, and the latest information is provided in the map pin pop-up (accessible through the navigation application on your vehicle touchscreen). By remaining parked in a charging stall after your vehicle is finished charging, you accept the idle fee rate communicated to you through the map pin pop-up. For additional information, please see our idle fee support page.
+
+Pay Per Use
+
+All vehicles ordered after January 15, 2017, and vehicles ordered by January 15, 2017 but built after April 15, 2017, are enabled for Supercharging on a pay per use basis. Any credits for free Supercharging that are given with the purchase of a vehicle, including any annual renewal of credits, expire upon the sale or transfer of the vehicle and are not transferable to any subsequent vehicle owner, or to any other vehicle. Credits for Supercharging expire after a set period of time and do not rollover into future periods.
+
+Pay per use billing is on a per kilowatt hour basis in jurisdictions where this is feasible, and as a service fee on a per minute basis in other jurisdictions. The pay per use billing unit and rate for each location may change from time to time, and the latest information is provided in the map pin pop-up (accessible through the navigation application on your vehicle touchscreen). By charging your vehicle in a particular location, you accept the price of charging communicated to you through the map pin pop-up. For additional information, please see our Supercharger support page.
+
+Premium Connectivity
+
+Terms & Conditions
+
+Premium Connectivity is available to many Tesla vehicles through a paid subscription. Information about the Service is available at Tesla’s website.
+
+Changes to Terms & Conditions
+We can change these Terms & Conditions; change, add or delete Services or the features included therein; and change the prices we charge for the Service, at any time. Any change in prices for your Service or any material reduction in the features of your Service will not take effect until the next monthly period of the Service has expired. We will notify you of such change by posting the amended terms on our website and/or on your Tesla Account. It is your responsibility to review these Terms & Conditions periodically. If you do not cancel your Service prior to the applicable effective date of the changes, your Service will be modified to reflect the applicable change to prices and/or features charged for your Service.
+Payment Provisions
+Third Party Charges
+You are responsible for paying directly to third parties all charges for services furnished by them directly to you that are not expressly covered by your Service. This Agreement shall have no effect on the terms and conditions of any agreement that you have entered into with a third party.
+Your Agreement to Pay
+You are responsible for paying all amounts due on time and in full and to keep an active credit card on file with us. We will automatically debit your monthly payment from this credit card on the monthly anniversary of the effective date of this Agreement unless you cancel your Service before the applicable day of renewal. For example, if your subscription start date is on 3/23/2020, then the next billing date is 4/23/2020. If you purchase a subscription on the 29/30/31 of a given month, then the monthly anniversary date automatically gets set on the 1st of the month after next. For the month of February, this is also applicable if your subscription purchase date is on the 27/28/29. All charges will be charged in advance of the term to which they apply. We may terminate or suspend your Service without notice to you, if your credit, charge or debit card provider refuses a charge from us or if such card has otherwise expired. Even if we terminate or suspend your Service, you will still be responsible for any charges due at the time of such suspension or termination.
+Termination, Suspension, Reactivation, Change and Transfer of Service
+Suspension or Termination
+We can decide to either suspend or terminate the Service without warning, or issue a warning including for network or system maintenance, improvement, or failure or if we suspect your Service is being used for any unauthorized or inappropriate purpose, as a result of your breach of these Terms & Conditions or for reasons unrelated to you or your account with us. If suspension or termination of the Service occurs for any reason, you acknowledge and agree that you may not be able to access the Service.
+
+If we elect to terminate your Service, you will be entitled to a pro rata refund or credit of the prepaid charges determined on the remaining monthly term of the Service.
+Cancellation by You
+You may cancel the Service at any time through your Tesla Account or by contacting our Customer Support team and notifying us that you want to cancel the Service. If you cancel, your cancelation of the Service will only be effective from the end of the current monthly subscription term.
+Reactivation of Service
+You do not have any right to have your Service reactivated, even if you cure any of the issues that resulted in the termination or suspension of your Service. It is solely our decision as to whether to allow you to have Service again. If we do decide to reactivate your Service, we have the right to charge a reactivation fee.
+Transfer of Service, Sale of Vehicle, Termination of Lease
+The Service is not transferrable to any future owner of the Vehicle.
+
+You must notify us if you sell or transfer your Vehicle or end its lease. If you fail to notify us, you will remain responsible for all charges for any Service incurred in connection with such Vehicle. It is your responsibility to remove all data and content (including any personal information), if any, that you may have stored on your system before you sell or transfer your Vehicle.
+Your Responsibilities
+Your Responsibility for the Proper Operation of Your Vehicle and Proper Use of the Service
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT THE USE OF OR ANY RELIANCE UPON ANY INFORMATION OR CONTENT AVAILABLE THROUGH THE SERVICE IS SOLELY AND COMPLETELY AT YOUR OWN RISK AND RESPONSIBILITY. IT IS YOUR SOLE RESPONSIBILITY TO ENSURE THAT YOU (AND/OR ANY OTHER OCCUPANT OF YOUR VEHICLE) FOLLOW INSTRUCTIONS FOR USE OF THE SERVICE AND EXERCISE GOOD JUDGMENT AND OBEY TRAFFIC AND ALL OTHER APPLICABLE LAWS AND REGULATIONS, WHEN OPERATING YOUR VEHICLE; USING THE EQUIPMENT AND SERVICE; AND/OR EVALUATING WHETHER THE USE OF ANY OF THE SERVICES (OR THE ROUTING AND DIRECTION DATA YOU RECEIVE) IS SAFE AND LEGAL UNDER THE CIRCUMSTANCES.
+Your Responsibility for Maintaining Your Vehicle
+In order for us to provide the Service, your Vehicle must be in good working order and your Vehicle must have a working electrical system and adequate battery power. The Service may not work if you try to modify or add any equipment or software in or to your Vehicle that is not expressly authorized by us or is not compatible with the Service. You are solely responsible for the proper maintenance of your Vehicle and its systems.
+No Commercial Use or Resale of the Service
+The Service, including the messages, data, information, content, or other material provided as part of the Service, are provided only for your non-commercial use, and not for re-sale. Certain information you receive through the Service belongs to us (or other third parties) and may be subject to one or more copyrights, trademarks, service marks, patents, or other legal protections. You may not (and may not permit or cause any other party to) sell or resell or otherwise use the Service or any information provided through the Service for commercial purposes, nor may you reproduce, copy, modify, attempt to reverse engineer, make derivative works from or otherwise display or distribute information provided through the Service.
+Events Beyond Our Control
+Various conditions beyond our control may prevent or delay us from providing Service to you, or affect the quality of the Service. Some examples are atmospheric, geographic, or topographic conditions (such as tall buildings, hills or tunnels), damage to or failure to maintain your Vehicle or the equipment in good working order, government laws, rules or regulations, failure, congestion or outages of utility or wireless networks (including interruption of cellular service), war, act of God, natural disaster, inclement weather, and labor strikes. In the event of any of the foregoing, we may, in our discretion, suspend or terminate the Service, without notice to you and without any liability. We are not responsible for delay or failure in providing Service due to conditions beyond our control and you are not entitled to credit or refund as a result of any such delay or failure.
+
+In the event of any regulatory, governmental or other legally-compelled changes, or discontinuation or change of necessary telecommunications systems and services (e.g., if our Wireless Service Provider terminates or restricts wireless services of the type used by your Vehicle’s equipment), you are solely responsible for replacing, as well as the cost of replacing, any equipment that is necessitated as a result of such change or discontinuation, except that if such change occurs during your Vehicle’s base warranty period, while you will still be responsible for the cost of such replacement, we will be responsible for obtaining and providing you with the necessary replacement materials (if applicable).
+Disclaimer of Warranties
+TESLA DOES NOT WARRANT OR GUARANTEE THAT SERVICE WILL BE AVAILABLE AT ANY SPECIFIC TIME OR AT ALL TIMES OR TO ANY GEOGRAPHIC LOCATION, OR THAT THE SERVICE WILL BE PROVIDED WITHOUT INTERRUPTION, DELAY OR ERROR. NEITHER WE NOR ANY OF OUR SERVICE PARTNERS MAKE ANY WARRANTIES, EXPRESS OR IMPLIED ABOUT (1) THE EQUIPMENT OR ANY OTHER HARDWARE OR SOFTWARE USED WITH THE SERVICE, (2) THE SERVICE, (3) NONINFRINGEMENT, OR (4) ANY DATA OR INFORMATION OR OTHER SERVICES PROVIDED THROUGH THE SERVICE. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF SECURITY, TITLE, CONTENT, QUALITY, ACCURACY, TIMELINESS, COMPLETENESS, CORRECTNESS, RELIABILITY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OR USE. ALL SUCH WARRANTIES ARE EXPRESSLY EXCLUDED BY THESE TERMS OF SERVICE. WE EXPRESSLY DISCLAIM ANY AND ALL EXPRESS AND IMPLIED WARRANTIES.
+
+The only warranties applicable to the Equipment in your Vehicle are those extended as part of your purchase or lease of your Vehicle. Such warranty does not cover the Service, in whole or in part.
+Limitation of Liability
+Neither we, nor any Tesla Entity nor our service partners assume any risk or responsibility for your use of the Service, or any of the information or other content provided as part of the Service. You acknowledge and agree that neither we, any Tesla entity, nor any of our service partners are liable for dropped calls or interrupted service, or for problems caused by or contributed to by you, by any third-party, by buildings, hills, tunnels, network congestion, atmospheric conditions, acts of God or natural disaster or by any other conditions or circumstances out of our control (as further described above in Section 5 of these Terms & Conditions).
+
+In addition, neither we, any Tesla entity nor our service partners are liable (1) for our inability to contact any service partner or other party in any particular situation (including any emergency personnel), (2) for any act or omission of any other company furnishing a part of our Service or any equipment provided for such Service, (3) for errors or omissions of any vendors, dealers or manufacturers participating in offers made through us, or (4) for any damages that result from or arise out of the use, installation, repair or maintenance by you (or by any person you authorize) of the Service, or any product or service provided by or manufactured by third parties.
+
+Tesla shall be liable without limitation under the Agreement for damages resulting from intentional or negligent injury to life, body or health and for other damages resulting from intentional or grossly negligent conduct by Tesla or its legal representatives or agents.
+
+Unless Tesla has unlimited liability under the provisions of the previous paragraph, in case of a breach of a material contractual obligation due to ordinary negligence, Tesla's liability for damages or reimbursement of expenses shall be limited to typically foreseeable damages. Material contractual obligations are obligations whose fulfilment is essential for the proper execution of the Agreement and on whose fulfilment you regularly rely and may rely (cardinal obligations).
+
+The liability of Tesla based on the applicable product liability regulations remains unaffected.
+
+Any liability of Tesla beyond the aforementioned cases is excluded. In these cases, if you experience problems or dissatisfaction with the Service, your sole and exclusive remedy is to cancel the Service and discontinue using the Service.
+
+You agree that the limitations of liability and indemnities in these Terms & Conditions will survive even after your Service has terminated. These limitations of liability apply not only to you, but to anyone using your Vehicle, the Service, to anyone making a claim on your behalf, and to any claims made by your family, employees, customers, or others arising out of or relating to any Service we or our service partners provide.
+Software
+We use software in connection with the Service. We own or have rights to all such software and you do not acquire any rights in such software other than the right to use such software as reasonably necessary for you to use the Service as permitted in your Terms & Conditions. We may update or modify the software contained in your Vehicle from time to time, and we may do this remotely without notifying you or seeking your consent. These software updates and modifications may affect or erase data that you have previously stored on the equipment in your Vehicle (such as specific route or destination information). We are not responsible for any lost or erased (or otherwise affected) data and you are solely responsible for the data that you may have downloaded, uploaded, transmitted or otherwise stored from, to, on or through the equipment or Service.
+
+You understand that software available is dependent on vehicle configuration and geographical region, which may affect your access to the Service and/or any of its features.
+Additional Terms
+Governing Law
+The terms of this Agreement are governed by, and to be interpreted according to, the laws of the country in which we are licensed to sell motor vehicles that is nearest to your address that you input onto our website when placing this order.
+Entire Agreement
+These Terms & Conditions is the entire agreement between you and us. It supersedes all other agreements, communications or representations, oral or written, between us, past or present. We are not responsible for any statements, agreements, representations, warranties or covenants, oral or written, including, without limitation, any statements from third parties, concerning or relating to the Service provided to you pursuant to these Terms & Conditions, unless such statements, agreements, representations warranties or covenants are expressly contained in or incorporate by these Terms & Conditions.
+Survivorship
+Even after your Service has ended and unless it has been replaced by a new agreement expressly entered into by and between us, the provisions of these Terms & Conditions shall survive.
+Waiver; Severability
+No waiver of any part of these Terms & Conditions, or of any breach of it, in any one instance will require us to waive any other instance or breach. If any part of these Terms & Conditions is declared invalid or unenforceable, all other parts of these Terms & Conditions are still valid and enforceable.
+ 
+
+Revocation Policy
+
+Right of Revocation
+
+If you are a consumer and have concluded this Agreement exclusively by using means of remote communication (such as via the internet, telephone, e-mail or similar), you have the right to revoke this contract within fourteen days without stating reasons in accordance with the following provisions.
+
+The revocation period is fourteen days from the date of conclusion of the contract.
+
+In order to exercise your right of revocation, you must inform us (Tesla Motors Limited, 197 Horton Road, West Drayton UB7 8JD, United Kingdom) by means of a clear statement (e.g. a letter, fax or e-mail sent by post) of your decision to revoke this contract. You may use the attached model revocation form for this purpose, but this is not mandatory.
+
+In order to comply with the revocation period, it is sufficient to send the notification of the exercise of the right of revocation before the end of the revocation period.
+
+Consequences of Revocation
+
+If you revoke this Agreement, we shall reimburse you for all payments we have received from you, including delivery charges (except for additional charges resulting from your choosing a different method of delivery from the cheapest standard delivery offered by us), immediately and no later than fourteen days from the date we receive notification of your revocation of this Agreement. For this refund, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no case will you be charged for this refund.
+
+Model Revocation Form
+
+(If you want to cancel the contract, please fill out this form and send it back).
+
+To Tesla Motors Limited, 197 Horton Road, West Drayton UB7 8JD, United Kingdom:
+Hereby I/we (*) revoke the contract concluded by me/us (*) for the purchase of the following goods (*)/the provision of the following service (*)
+Ordered on (*)/received on (*) -Name of consumer(s)
+Address of the consumer(s)
+Signature of the consumer(s) (only in the case of paper notification)
+(*) Delete as appropriate
+
+ 
+
+Supercharger Fair Use Policy
+
+Introduction
+
+We are continually expanding our global network of Supercharger stations to enable personal long distance travel and to provide a charging solution for those without immediate access to home or workplace charging, thereby accelerating the widespread adoption of electric vehicles. When Superchargers are used beyond their intended purpose, it negatively impacts the availability of Supercharging services for others.
+
+Supercharger Fair Use
+
+To help ensure that Superchargers are available for their intended use, unless you charge on a pay per use basis, we ask that you not charge your vehicle using a Supercharger if your vehicle is being used:
+
+as a taxi;
+for ridesourcing or ridesharing (through Uber, Lyft or similar services);
+to commercially deliver or transport goods;
+for government purposes; or
+for any other commercial venture.
+If you charge your vehicle in a manner that does not comply with this Supercharger Fair Use Policy, we may ask you to modify this behavior. We may also take additional action to protect the availability of Superchargers for their intended purpose, such as limiting or blocking your vehicle’s ability to use Supercharger stations.
+
+This Policy applies to all Superchargers worldwide and all Tesla vehicles with free unlimited Supercharging or free Supercharging for the lifetime of vehicle ownership, purchased, either new or used, whether from Tesla or a third party, after December 15, 2017. Tesla may choose to exclude certain Supercharger stations or occasional trips from the scope of this Policy, such as to accommodate specific local circumstances.
+
+Charging Alternatives
+
+We encourage the commercial use of Tesla vehicles while using appropriate charging solutions. Please reach out to your local sales contact to explore vehicle and charging options that suit your needs. For questions related to home charging, please contact charginginstallation@tesla.com.
+
+Tesla Intellectual Property
+
+Copyrights
+
+Copyright 2002-2021 Tesla, Inc. All Rights Reserved. The text, images, graphics, sound files, animation files, video files and their arrangement on Tesla, Inc. internet sites are all subject to copyright and other intellectual property protection. These objects may not be copied for commercial use or distribution, nor may these objects be modified or reposted. Some Tesla, Inc. internet sites also contain material that is subject to the copyright rights of their providers.
+
+Prices
+
+All prices specified are recommended retail prices. Prices are current at the time of publication and subject to change without notice.
+
+Trademarks
+
+Unless otherwise indicated, all marks displayed on Tesla, Inc. internet sites are subject to the trademark rights of Tesla, Inc., including, but not limited to, model name plates and corporate logos and emblems.
+
+No Licenses
+
+Tesla, Inc. strives to achieve innovative and informative internet sites. Tesla, Inc. hopes that you will be as enthusiastic as we are about this creative effort. However, Tesla, Inc. must protect its intellectual property, including its patents, trademarks and copyrights. Accordingly, please be on notice that neither these internet sites, nor any material contained therein shall in any way grant or be taken to grant any person a license to Tesla, Inc.'s intellectual property.
+
+Cautions Regarding Forward-Looking Statements
+
+Internet pages, investor relations releases, outlooks, presentations, audio and video files of events (live or recorded) and other documents on these internet sites contain among other things forward-looking statements that reflect management's current views with respect to future events. The words "anticipate", "assume", "believe", "estimate", "expect", "intend", "may", "plan", "project" and "should" and similar expressions identify forward-looking statements. Such statements are subject to risks and uncertainties, including, but not limited to: changes in currency exchange rates, interest rates and in raw material prices; introduction of competing products; increased sales incentives; and decline in resale prices of used vehicles.
+
+No Warranties Or Representations
+
+THE INFORMATION ON THESE INTERNET SITES IS PROVIDED BY TESLA, INC. "AS IS" AND TO THE EXTENT PERMITTED BY LAW, IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, OR NON INFRINGEMENT. WHILE THE INFORMATION PROVIDED IS BELIEVED TO BE ACCURATE, IT MAY INCLUDE ERRORS OR INACCURACIES.
+
+THESE INTERNET SITES MAY CONTAIN LINKS TO EXTERNAL SITES WHICH ARE NOT UNDER THE CONTROL OF TESLA, INC. THEREFORE WE ARE NOT RESPONSIBLE FOR THE CONTENT OF ANY LINKED SITE. TESLA, INC. IS PROVIDING THESE LINKS TO YOU ONLY AS A CONVENIENCE, AND THE INCLUSION OF ANY LINK DOES NOT IMPLY ENDORSEMENT BY TESLA, INC. OF THE LINKED SITE.
+
+Policy
+
+Human Rights And Conflict Minerals Policy
+
+Tesla expects our suppliers to conduct their worldwide operations in responsible manner in adherence of this policy and the principles enumerated herein. Tesla works collaboratively with our suppliers to encourage compliance with the following principles:
+
+Legal And Regulatory Compliance
+
+Tesla suppliers are to ensure their operations and the products and services supplied to Tesla comply with all national and other applicable laws and regulations.
+
+Conflict Minerals
+
+Tesla's suppliers are expected to use reasonable efforts to ensure that parts and products supplied to Tesla are DRC "conflict-free," meaning that such conflict minerals do not benefit armed groups in the Democratic Republic of the Congo. Conflict-free means such parts and supplies do not contain metals derived from "conflict minerals" which are defined as:
+
+(i)	columbite-tantalite (tantalum);
+(ii)	cassiterite (tin);
+(iii)	gold;
+(iv)	wolframite (tungsten); and
+(v)	any derivatives of the above.
+
+The goal of this policy is to ensure that Tesla's products do not directly or indirectly finance or benefit armed groups through mining or mineral trading in the DRC and adjoining countries. Tesla requires its suppliers to establish policies, due diligence frameworks, and management systems, consistent with the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, that are designed to accomplish this goal. Tesla expects its suppliers to stay up-to-date with and to use validated conflict free smelters and refiners assessed by the Responsible Mineral Initiative and similar organizations. Tesla performs ongoing due diligence and files annual reports with the U.S. Securities and Exchange Commission in accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+Human Rights
+
+Tesla is committed to ensuring that its suppliers do not use slave or child labor or engage in human trafficking. Tesla does not, and will not, tolerate the use of slave or child labor in the manufacture of its products and does not, and will not, accept products or services from suppliers that engage in human trafficking in any form. Human trafficking, child labor and slavery are crimes under state, federal and international law. These crimes exist in countries throughout the world.
+
+Supplier Compliance
+
+Tesla will do the following to ensure compliance by its suppliers with this policy as required by law and as needed:
+
+Evaluate its supply chain to address risks related to conflict minerals, human trafficking, slavery and child labor;
+Audit suppliers, to evaluate supplier compliance with Tesla's Human Rights and Conflict Minerals Policy;
+Require direct suppliers to certify that materials incorporated into Tesla products comply with the laws regarding conflict minerals, slavery, child labor and human trafficking of the country or countries in which they are doing business;
+Discipline employees or contractors, including potential termination of contract, who fail to meet Tesla's Human Rights and Conflict Minerals Policy;
+Train certain Tesla employees regarding conflict minerals, human trafficking, child labor and slavery, particularly with respect to mitigating risks within the Tesla's supply chain;
+Investigate if Tesla has a reasonable basis to believe that a Tesla supplier is engaging in human trafficking, slave or child labor, or use of conflict minerals; and
+Transition away from purchasing goods or services from any supplier that is believed to be engaging in human trafficking, slave or child labor, or use of conflict minerals if the supplier does not take corrective actions within a reasonable period of time.
+Grievance Mechanism
+
+You may contact Tesla's Board of Directors to provide comments or to report concerns. Please write to:
+
+Corporate Secretary
+Tesla
+3500 Deer Creek Rd.
+Palo Alto, CA 94304
+
+You may submit your concern anonymously or confidentially by postal mail. You may also indicate whether you are a shareholder, customer, supplier, or other interested party.
+
+You may also provide comments or report concerns by email to: legal@tesla.com.
+
+Open Source at Tesla
+
+These are sources for various systems on Tesla Model S/X/3. The directory structure is as follows:
+
+parrot-sources:
+Pass-through source drop for the parrot BlueTooth module.
+https://os.tesla.com/parrot-sources/parrot-sources.tar.gz
+
+Additional packages:
+
+For Autopilot and Infotainment system image sources, see:
+http://github.com/teslamotors/buildroot
+
+Main branch is buildroot-2019.02
+See README.Tesla for more information on contents and configurations
+For Autopilot and Infotainment kernel sources, see:
+http://github.com/teslamotors/linux
+
+branches:
+intel-4.1: Infotainment Intel kernel
+tegra-2.6: Infotainment Tegra kernel
+tegra-4.4: Infotainment Tegra kernel
+tesla-3.18-hw2: Autopilot Nvidia kernel
+tesla-3.18-hw25: Autopilot Nvidia kernel
+tesla-4.14-hw3: Autopilot Tesla kernel
+For Autopilot coreboot sources, see:
+http://github.com/teslamotors/coreboot
+
+tesla-4.6-hw3
+Forthcoming releases and estimated timelines:
+
+Harman Radio module for Model 3
+Pass-through source drop: Q3 2018
+Cellular modem modules for Model S/X/3
+Pass-through source drops: Q3 2018
+Patent Pledge
+
+On June 12, 2014, Tesla announced that it will not initiate patent lawsuits against anyone who, in good faith, wants to use its technology. Tesla was created to accelerate the advent of sustainable transport, and this policy is intended to encourage the advancement of a common, rapidly-evolving platform for electric vehicles, thereby benefiting Tesla, other companies making electric vehicles, and the world. These guidelines provide further detail as to how we are implementing this policy.
+
+Tesla’s Pledge
+
+Tesla irrevocably pledges that it will not initiate a lawsuit against any party for infringing a Tesla Patent through activity relating to electric vehicles or related equipment for so long as such party is acting in good faith. Key terms of the Pledge are explained below.
+
+Definition of Key Terms
+
+"Tesla Patents" means all patents owned now or in the future by Tesla (other than a patent owned jointly with a third party or any patent that Tesla later acquires that comes with an encumbrance that prevents it from being subject to this Pledge). A list of Tesla Patents subject to the Pledge will be maintained at the following URL: https://www.tesla.com/about/legal#patent-list.
+
+A party is "acting in good faith" for so long as such party and its related or affiliated companies have not:
+
+asserted, helped others assert or had a financial stake in any assertion of (i) any patent or other intellectual property right against Tesla or (ii) any patent right against a third party for its use of technologies relating to electric vehicles or related equipment;
+challenged, helped others challenge, or had a financial stake in any challenge to any Tesla patent; or
+marketed or sold any knock-off product (e.g., a product created by imitating or copying the design or appearance of a Tesla product or which suggests an association with or endorsement by Tesla) or provided any material assistance to another party doing so.
+Transfer of Tesla Patents
+
+Should Tesla ever transfer a Tesla Patent to a third party, it will do so only to a party that agrees, by means of a public declaration intended to be binding on such party, to provide the same protection that Tesla provided under the Pledge and to place the same requirement on any subsequent transferee.
+
+Legal Effect
+
+The Pledge, which is irrevocable and legally binding on Tesla and its successors, is a "standstill," meaning that it is a forbearance of enforcement of Tesla’s remedies against any party for claims of infringement for so long as such party is acting in good faith. In order for Tesla to preserve its ability to enforce the Tesla Patents against any party not acting in good faith, the Pledge is not a waiver of any patent claims (including claims for damages for past acts of infringement) and is not a license, covenant not to sue, or authorization to engage in patented activities or a limitation on remedies, damages or claims. Except as expressly stated in the Pledge, no rights shall be deemed granted, waived or received by implication, exhaustion, estoppel or otherwise. Finally, the Pledge is not an indication of the value of an arms-length, negotiated license or a reasonable royalty.
+
+What this pledge means is that as long as someone uses our patents for electric vehicles and doesn’t do bad things, such as knocking off our products or using our patents and then suing us for intellectual property infringement, they should have no fear of Tesla asserting its patents against them.
+
+Patent list
+
+Recall
+
+Click here to check if your car is affected by a recall.
+
+Tesla Conflict Minerals Report
+
+Download PDF
+
+Last Updated May 2020
+
+Tesla Supplier Code of Conduct
+
+Download PDF
+
+Last Updated June 2017
+
+Tesla UK Modern Slavery Act Transparency Statement
+
+Download 2019 Report PDF
+
+Last Updated June 2020
+
+Download 2018 Report PDF
+
+Download 2017 Report PDF
+
+Download 2016 Report PDF
+
+Unsupported or Salvaged Vehicle Policy
+
+An unsupported or salvaged vehicle is a vehicle that has been declared a total loss, commonly after extensive damage caused by a crash, flooding, fire, or similar hazard, and has been (or qualifies to be) registered and/or titled by its owner as a salvaged vehicle or its equivalent pursuant to local jurisdiction or industry practice. Salvage registration/titling typically can never be removed from the vehicle so that all future persons understand the condition and value of the vehicle. Tesla does not warrant the safety or operability of salvaged vehicles. Repairs performed to bring a salvaged vehicle back into service may not meet Tesla standards or specifications and that is why the vehicle is unsupported. Consequently, any failures, damages, or injuries occurring as a result of such repairs or continued operation of an unsupported vehicle are solely the responsibility of the vehicle owner.
+
+Until Tesla can confirm that the vehicle is in compliance with Tesla’s safety standards and vehicle specifications, Tesla does not perform or support repairs involving the HV (high-voltage) battery systems in the vehicle because of the potential for the salvage vehicle to have sustained damage that:
+
+Makes the vehicle unsafe to drive
+Makes the vehicle unsafe for any repair technicians that might work on the vehicle
+Might damage Tesla equipment, such as Superchargers
+When a vehicle is classified as a salvaged vehicle:
+
+Any Tesla limited warranties and extended service agreements for the vehicle are void.
+NOTE: Repairs due to recalls will be performed unless the safe repair of the vehicle is prevented either by the condition of the vehicle or by vehicle modifications not installed by Tesla. If the Tesla Service Center determines that the vehicle is not safe to repair, the recall-related repair will not be performed until the customer has returned the vehicle to a condition that the Service Center determines is safe to repair.
+Supercharging is permanently disabled.
+Parts availability is not affected. Any Unrestricted or Over-the-Counter part may be purchased for a salvage-titled vehicle.
+A “Salvage-Titled Vehicle HV Safety Inspection” may be performed (at the customer’s expense) on the vehicle to determine if the HV-related components are safe to work on or access.
+For more information about this policy, please contact a Tesla Service Center.
+
+Tesla UK Tax Strategy
+
+Introduction
+
+In accordance with Paragraph 22(2), Schedule 19 of the Finance Act 2016, Tesla sets out below its tax strategy for all UK companies within the Tesla group. This strategy applies from the date of publication until it is superseded. Unless otherwise stated, ‘Tesla’ and ‘the Company’ refer to all UK companies within the Tesla group.
+
+Tesla’s mission is to accelerate the world’s transition to sustainable energy. Tesla designs, develops, manufactures, leases and sells high-performance fully electric vehicles, solar energy generation systems and energy storage products. The activities of the Tesla UK group companies are limited to performing marketing, sales and distribution functions, including on-the-ground sales efforts. The Tesla UK group companies remain dependent on the overall success of the business at a global level.
+
+Approach to risk management and governance in relation to UK taxation
+
+Tesla is committed to being a responsible taxpayer and to comply with the tax laws and regulations in all the jurisdictions in which the Company operates, including the United Kingdom. The Company has a consistent process in place to identify, manage and mitigate exposure to issues that may have a negative impact on the business. The Company works closely with external advisors to ensure tax risks are adequately managed and that the Company remains up to date with the latest tax changes that may affect the business.
+
+Tesla is mindful of its reputation in the marketplace and aims to minimize the level of risk in relation to UK taxation. Tesla is not prepared to accept risk levels that expose the Company to reputational risks. However, given the scale of Tesla’s business and the complexity of tax legislation, it is inevitable that tax risks will arise. To ensure that the level of risk is kept as low as possible, risk management policies and governance arrangements are in place, including controls specifically relating to tax that must be adhered to for all tax types.
+
+Approach to tax planning and level of risk in relation to UK taxation
+
+Tesla is not engaged in tax planning other than that which is permitted by law and which is in line with the commercial business and economic activities. The primary tax objective of the Company is to comply with tax filing, tax reporting and tax payment obligations in the UK in order to ensure that the right amount of tax is paid at the right time. In relation to cross-border transactions, Tesla applies the OECD standard and ensures that the transfer pricing policies are in line with the “arm’s length principle”.
+
+Tesla operates under the principle that tax follows business decisions and consequently commercial needs take precedence over tax planning opportunities. The Company has a low risk appetite in respect of taxation and seeks to minimize the risk of uncertainty or disputes.
+
+Relationship with HMRC
+
+Tesla seeks to maintain an open, professional and transparent relationship with Her Majesty’s Revenue & Customs (‘HMRC’). In this respect, Tesla commits to make full and accurate disclosures in tax returns and in correspondence with HMRC. Tesla works constructively and proactively with HMRC and deals with issues in a timely and collaborative manner.

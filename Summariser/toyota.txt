@@ -1,0 +1,142 @@
+Toyota Motor North America
+Privacy Notice Connected Services Updated as of: January 1, 2020
+We may modify this Privacy Notice by posting a new version at www.toyota.com/privacyvts, effective on the date of publication.
+Toyota Supra Connect: This Privacy Notice DOES NOT apply to use of Toyota Supra Connect. Please visit supraconnect.com for relevant terms.
+This Privacy Notice DOES NOT apply to data collection unrelated to Connected Services on Toyota or Lexus websites, or on sites that we do not own, operate or control.
+This Privacy Notice DOES NOT apply to any Toyota or Lexus vehicles equipped with Connected Services located outside of the continental United States, Alaska and Hawaii.
+I. INTRODUCTION
+This Privacy Notice applies to your personal information and vehicle data that we collect, use, store, share and secure to provide Connected Services to you.
+California Consumers
+Effective January 1, 2020, the California Consumer Privacy Act of 2018 (“CCPA”) give you certain privacy rights related to your personal information which are in addition to any privacy rights set forth in the Toyota Privacy Statement and Privacy Notice for Connected Services. Please visit the Toyota California Privacy Policy https://www.toyota.com/support/california-privacy for additional information.”
+A. How We Use, Store, Share and Secure Data From Your Vehicle Equipped With Connected Services. When you purchased or leased your vehicle, your vehicle may have been equipped with an active Connected Services system which operates by collecting data from you and your vehicle, including vehicle location, health and driving data, to support navigation assistance, emergency services, remote engine start, maintenance alerts, infotainment apps and more. If you do not opt-out of Connected Services, you specifically consent to our electronic collection and use of your personal information and vehicle data and our storage of such data wherever we designate.
+1. Safety Connect. Your vehicle’s Safety Connect feature provides roadside and emergency assistance, automatic collision notifications, stolen vehicle assistance and accident advisory services. Safety Connect uses your vehicle’s Location Data, or “vehicle location” (your vehicle’s latitude and longitude) to determine where your vehicle needs assistance, your Personal Information (such as your name, address, phone number, email address, etc.) to verify your account, and your Voice Recordings (when you call our Response Center) for quality assurance.
+2. Service Connect. We use your Vehicle Health Data (such as odometer readings, fuel level, oil life, and diagnostic trouble codes) for the Service Connect application, which sends you vehicle health reports and alerts you of needed maintenance.
+     17951423.9202758-10728
+
+3. Remote. Certain Remote services such as vehicle finder, remote door lock and unlock, guest driver monitor, and vehicle alerts use your vehicle’s Location Data to find your vehicle and Vehicle Health Data to provide status updates.
+4. Destination Assist. Your vehicle’s Destination Assist features allow you to choose a place of interest, a location on a map, one of your favorites, a destination from your history, or enter an address or coordinates (latitude and longitude). We use your vehicle’s Location Data and your Personal Information to verify your account and to offer these features.
+5. Auto Insurance Designed for You. You may choose to opt-in for usage-based insurance products and services. If you opt-in, your Driving Behavior Data (such as your vehicle’s acceleration, speed, braking and steering) and your Location Data will be used to deliver usage-based insurance services to you, and for quality assurance, analysis, research and product development.
+6. App Suite and Toyota/Lexus+ Compatible Third Party Services. The App Suite is available even if you do not have a subscription for Connected Services. To use the App Suite, you must download the application and accept the End User License Agreement. When you use our App Suite for traffic, fuel, weather, music or other apps, you will need to sign into your account with each Compatible Third Party Service in the App Suite; and we will pass the log-in information you provide us to the corresponding Compatible Third Party Service. We will also pass to each Compatible Third Party Service in the App Suite vehicle data necessary for you to use its service. We will use Voice Recordings to improve our responses and voice recognition. To facilitate functionality of your App Suite and linked Third Party Services, your vehicle may share your Location Data and Voice Recordings transcriptions with your Third Party Services and upon their receipt, the respective Third Party’s privacy policy and terms control.
+B. We Protect Your Data
+1. We protect your data through the use of a risk-based security program that relies upon a range of technical and administrative controls, such as the use of dedicated networks and encryption, as appropriate. Your vehicle is designed only to respond to commands from you and any authorized users, or from us and only for those features we provide, including door unlock, remote engine start and vehicle finder.
+2. Your Personal Information (e.g., name, address, phone number, email), provided when you subscribe for Connected Services, is retained on servers that are secured according to industry best practices.
+C. Your Responsibilities
+1. Your responsibilities include: (1) informing passengers and drivers of your vehicle that data is collected and used by us, and (2) notifying us of a sale or transfer of your vehicle. If you do not notify us of a sale or transfer, we may continue to send data about the vehicle to the subscriber’s Personal Information currently on file, and we are not responsible for any privacy related damages you suffer.
+II. COLLECT AND USE
+A. On a Regular and Continuous Basis, We Collect and Use Your
+     17951423.9202758-10728
+2
+
+1. Personal Information. We collect your name, address, phone number, email address, language preference and other information linked or directly related to you so we can provide Connected Services and communicate with you.
+2. Location Data. We collect and use your vehicle’s latitude and longitude (“Location Data” or “vehicle location”) to deliver Connected Services and App Suite services to you and for quality confirmation, data analysis, research, and product development. We record and transmit your vehicle’s Location Data when you contact us for emergencies, roadside assistance, stolen or missing vehicle, missing persons, and destination services.
+3. Remote Data. At last Ignition Off, we may collect the Real Time Status of your vehicle (i.e., vehicle location, status of powered doors, windows, hood, trunk, sunroof, hazard lights, odometer reading, oil life, fuel economy, trip distance, distance to empty) so you can remotely access your vehicle’s most recent information. Toyota uses this information to deliver Remote services to you.
+4. Driving Data. We collect your Driving Behavior Data (“Driving Data”) which includes the acceleration and speed at which your vehicle is driven, travel direction, and use of the steering and braking functionality in your vehicle. Driving Data is used to deliver Connected Services, and App Suite services to you, and for quality confirmation, data analysis, research, and product development.
+5. Vehicle Health Data.
+i. Vehicle Health Data may include odometer readings, fuel level, oil life, Diagnostic Trouble Codes and related data from your vehicle’s on-board diagnostic system to identify malfunction events. Related data includes engine coolant temperature, fuel injection volume, engine rotation per minute (RPM), and other data to assist in identifying issues and analyzing the performance of your vehicle. For hybrid vehicles, Vehicle Health Data includes hybrid battery data correlated to Location Data.
+ii. We use Vehicle Health Data to (a) tell you when your vehicle is due for maintenance or service (“Maintenance Notifications”), (b) provide you with Vehicle health reports (maintenance and malfunction statuses, and service campaign and safety recall information) and Vehicle Alerts (notifications when your vehicle reports malfunction-related events) and (c) contact you.
+6. Multimedia Screen Data. We may collect and use Multimedia Screen Data (how you interact with your screen) for quality confirmation, data analysis, research and to improve functionality and product offerings.
+7. Voice Recordings. If you or anyone in your vehicle speaks with the Response Center for purposes of emergency services, roadside assistance, stolen vehicle locator, Destination Assist, or any other reason, your conversation will be recorded to deliver Connected Services to you and for quality assurance.
+8. Voice Recognition Recordings. In select models with hands-free control of in- car multimedia and a linked smartphone, we may collect voice recordings to improve the quality and performance of voice recognition capabilities.
+        17951423.9202758-10728
+3
+
+9. Other Uses. Where applicable, we use Location Data, Driving Data, Vehicle Health Data, data derived from Safety Connect (which includes automatic collision notification, roadside, emergency and stolen vehicle assistance), Destination Assist, Remote, Service Connect, Dynamic Navi, Dynamic Voice Request, Traffic and Weather, and Wi-Fi® for the following purposes:
+1. Improve Safety.
+2. Develop New Vehicles and Features.
+3. Confirm Quality.
+4. Analyze Data (e.g., Vehicle Trends).
+5. Prevent Fraud or Misuse.
+6 Support Laws and Legal Process.
+III. STORAGE OF INFORMATION A. Personal Information
+1. We store your Personal Information for four (4) years after expiration of your subscription for Connected Services.
+B. Vehicle Location, Driving Data, Health Data, Multimedia Screen Data, Voice Data, and Remote Data
+     IV .
+1. Data collected from your vehicle is stored for different periods of time.
+a. Location Data, Driving Data, Multimedia Screen Data and Vehicle Health Data. We will store such data for a period of time not to exceed 20 years from the date of receipt by us, unless otherwise required by law, legal process or litigation. We will also store your Vehicle health reports for 12 months from date of creation.
+b. Voice Recordings. If you speak with the Response Center, your conversation may be recorded and stored for two (2) years; and a transcript of your conversation may be stored for four (4) years as required by law and to support requests from you or law enforcement.
+c. Remote Data. We store the Real Time Status and Location Data of your vehicle from the last Ignition Off for the purpose of delivering your vehicle’s most recent information in support of the Remote services. We retain this data for four (4) years, unless we are required to retain the data for a longer period of time prescribed by law, legal process or litigation.
+SHARE
+A. Personal Information
+1. We may share your Personal Information with:
+17951423.9202758-10728
+4
+
+a. Emergency Responders. To provide emergency assistance to you with our Safety Connect feature. This includes roadside assistance providers.
+b. Our Affiliates. To support vehicle improvement and, if you opt-in, for usage-based insurance products. Also, if your Lienholder/Lessor is Toyota Motor Credit Corporation (TMCC) and TMCC requests that we find your vehicle because of (1) alleged fraud or (2) breach of your lease, retail installment contract or vehicle loan with TMCC, we can try to locate your vehicle and share that location with TMCC. TMCC will be required to contact us directly and provide us with the information we request to verify the fraud or breach of your lease, retail installment contract, or vehicle loan.
+c. Our Parent Company. We may also share your Personal Information to support safety, research, analysis and product development made by our parent company, Toyota Motor Corporation.
+d. Third Party Service Providers. We contractually bind our service providers to handle your Personal Information in accordance with this Privacy Notice. For example, Toyota Connected North America, Inc. provides customer support and the other services that are part of your Connected Services, and apps, such as iHeart Radio, will store and use the information you provide to them in order to verify your account and provide you with their services.
+e. Insurance Providers. We may share your Personal Information only if you have provided your prior express consent or as required by law.
+f. Your Dealer. We may share your Personal Information only if you have provided your prior express consent or as required by law.
+g. Vehicle Sale or Transfer. If you do not notify us of a sale or transfer of your vehicle, we may continue to send reports and data about the vehicle or Connected Services account to the subscriber’s Personal Information currently on file with us. In such case, we are not responsible for any privacy related damages you may suffer.
+h. Law Enforcement. We DO NOT share your Personal Information with law enforcement unless we are required to do so by law or legal process, in response to government investigations, as may be required for national security, or where we believe it necessary to prevent harm, injury or loss.
+2. We DO NOT share your Personal Information with:
+a. Data Resellers.
+b. Social Networks.
+c. Ad Networks.
+d. Insurance Providers, unless we have your consent or as required by law.
+        17951423.9202758-10728
+5
+
+B. Your Vehicle Location Data, Driving Data, and Health Data
+We may share the following data with you and our affiliates and business partners for quality confirmation, data analysis, research and product development. We also share the following data with others if required by law, litigation, legal process, customer service and our legitimate business purposes.
+1. Location Data. We may share your vehicle’s Location Data, linked to your VIN, and Personal Information with emergency responders, law enforcement, our affiliates and service providers acting on our behalf, as well as any Compatible Third Party Services you have authorized to receive your vehicle’s Location Data. If you provide express prior consent, we may also share your Location Data with our affiliates and non-affiliated insurance companies to provide you with usage- based insurance information and offers. With your consent, if your vehicle is stolen or you are attempting to locate missing persons, we can try to locate your vehicle and share that Location Data with local authorities. We can work with local authorities to recover the vehicle utilizing the vehicle’s GPS.
+Automatic Collision Notification operates so that if the airbag sensor is tripped or there is a severe rear-end collision of your vehicle, your vehicle will send an electronic signal to our Response Center and record and transmit your vehicle location, so that we can share your Personal Information and vehicle location with emergency responders and provide assistance to you. If you press the “SOS” button, your vehicle will send an electronic signal to our Response Center and record and transmit your vehicle location so that we can share your Personal Information and vehicle location with emergency responders and provide assistance to you.
+2. Voice Recordings. We share Voice Recordings with you and law enforcement to support requests related to litigation and investigations. We may also share them with our service providers.
+3. Remote Data. We share your vehicle’s Location Data based on last Ignition Off to assist you in finding your vehicle. When you press the “Destination Assist” button on your in- vehicle navigation unit, your vehicle will send an electronic signal to the Response Center which identifies your vehicle location to the Response Center agent who answers your call. We also share Real Time Status of your vehicle (i.e., vehicle location, status of powered doors, windows, hood, trunk, sunroof, hazard lights, odometer reading, oil life, fuel economy, trip distance, distance to empty) only with you.
+4. Multimedia Screen Data. We may share your Multimedia Screen Data with our parent company for quality confirmation, data analysis, research and to improve functionality and product offerings.
+5. Driving Data. We share Driving Data with our affiliates and business partners so we can work together to develop better and safer products. If you provide express prior consent, we may also share your Driving Data with our affiliates and non-affiliated insurance companies to provide you with usage-based insurance information and offers. We will also share Driving Data with compatible Third Party Services you authorize.
+6. Vehicle Health Data. We share your Vehicle Health Data with you. If you specifically agree to allow us to share your Vehicle Health Data with your dealer for its own use, we will share your most current Vehicle Health Data, linked to your VIN and Personal Information, and last 12 monthly Vehicle health reports.
+      17951423.9202758-10728
+6
+
+7. Aggregated Data Sharing. We may sometimes share anonymized and aggregated Location Data, Driving Data and Health Data with business partners for education and research related to environmental and energy issues, advanced technologies and usage analysis.
+8. Compatible Third Party Services. We may send Location Data and Voice Recording transcriptions to compatible Third Party Services or technologies you have linked to your Connected Services account.
+V . SECURITY
+A. We take information security seriously.
+B. We protect your data through the use of a risk-based security program that relies upon
+a range of technical and administrative controls, such as the use of dedicated networks and encryption, as appropriate.
+C. Our security program includes:
+1. System Defenses. We designed the Connected Services technology to provide data security based on fundamental security principles such as integrity, confidentiality and availability. It employs layers of defense to drive strong safeguarding practices, such as, where appropriate, code and design reviews, security testing, firewalls, intrusion detection systems, signing and encryption.
+2. Private and Public Wireless Networks. We use both private and public wireless networks to receive data transmitted from your vehicle. If a public network is used, the data is encrypted. In addition, your vehicle is designed only to respond to commands from you and any authorized users, or from us and only for those features we provide such as door lock/unlock, remote engine start/stop and vehicle location.
+3. No Warranties. Please note, however, that we cannot completely ensure or warrant the security of any information transmitted to us by you or your vehicle. Your use of your vehicle’s Connected Services and App Suite is at your own risk. You have the option to request deactivation of your Connected Services (a) by contacting us via the “SOS” button in your vehicle, (b) by calling Customer Care, or (c) via your Connected Services App.
+VI. CHOICE
+A. Choices. We give you choices about what data you share with us.
+1. Opt-in/Opt-out.
+ Service Connect. You may opt-in to share Vehicle Health Data with your dealer for its own use and allow your dealer to contact you by cell phone call or text message using an automatic telephone dialing system for service appointments and service-related marketing at the number you provided.
+ You may opt-out of Service Connect at any time, and you will no longer receive cell phone calls and text messages about upcoming service appointments and other service-
+      17951423.9202758-10728
+7
+
+related marketing messages from your dealer using automatic telephone dialing systems and other systems. To opt-out, you must contact us (1) by calling (800) 331-4331, (2)via the Connected Services app, or (3)by replying “STOP” to such text communications. These are the exclusive methods to opt-out for service appointments and service-related marketing text messages and phone calls from your dealer. Please allow five (5) business days to process revocation status.
+ Fuel Cell and Plug-in Hybrid Vehicle Applications. You may opt-in or opt-out of Fuel Cell or Electric Vehicle Plug-in Hybrid Vehicle Applications. If you opt-out, your vehicle will not send us Ignition Off data, such as the vehicle location, status of powered doors, windows, trunk, hood, sunroof, hazard lights, odometer reading, oil life, fuel economy information, and distance to empty.
+2. Review and Update. You may also review and update your Personal Information at any time by contacting us. (See Sections IX.A2 and A3.)
+3. Deactivation. When you lease or buy a vehicle equipped with Connected Services, data collection is active. You may deactivate Connected Services at any time by contacting us; and we will no longer collect your Personal Information, Location Data, Driving Data and Health Data.
+VII. CONSENT
+A. You Agree To This Privacy Notice When You:
+1. Purchase or lease a vehicle equipped with Connected Services.
+2. Use Connected Services in your vehicle.
+3. Agree to a Subscription Agreement for your Connected Services.
+4. Agree to an End User License Agreement for your App Suite.
+5. Use Compatible Third Party Services in connection with your App Suite.
+Warning: If you do not opt-out of Connected Services, you specifically consent to our electronic collection and use of your Personal Information and data as described above, and our storage of such data wherever we designate.
+VIII. AGREEMENT
+A. Sample Agreements. To view samples of the most recent agreements, please click
+here.
+IX. CONTACT US
+A. Contact Us
+  17951423.9202758-10728
+8
+
+1. If you have questions or concerns about this Privacy Notice, or would like to deactivate your Connected Services, update your Personal Information, or opt-in or opt-out from particular features, please contact us.
+2. LEXUS:
+Phone: (800) 255-3987
+Email: http://lexus2.custhelp.com/app/ask
+Lexus
+P.O. Box 259001 – Mail Drop E3-2D Plano, TX 75025-9001
+3. TOYOTA:
+Phone: (800) 331-4331
+Email: http://www.toyota.com/support/#!/app/ask
+Toyota Motor Sales, U.S.A., Inc. P.O. Box 259001
+Plano, TX 75025-9001
+17951423.9202758-10728
+9
