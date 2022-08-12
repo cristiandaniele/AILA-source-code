@@ -1,5 +1,4 @@
-# AILA-source-code
-Methodology for Automated and Intelligent Likelihood Assignment
+# The AILA Methodology for Automated and Intelligent Likelihood Assignment source code
 
 The repository is divided into three folders:
 1) Summariser folder: contains a script that summarises a text using n-grams, POS-tagging and entropy measurement.
